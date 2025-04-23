@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
- <br>I am a dynamic IT and geospatial professional from Ghana, currently completing my Master of Science in Geoinformatics and Spatial Data Science at the University of Münster in Germany. With a background in Computer Technology from Bharathiar University, India, I have worked in IT support, PR management, software development, and event management, building a diverse skill set that blends creativity with technical expertise.<br>
+ <br>I am an IT and geospatial professional from Ghana, currently completing my Master of Science in Geoinformatics and Spatial Data Science at the University of Münster in Germany. With a background in Computer Technology from Bharathiar University, India, I have worked in IT support, PR management, software development, and event management, building a diverse skill set that blends creativity with technical expertise.<br>
 
 <br>📍 Currently, I am expanding my expertise as a graduate student at the Institute for Geoinformatics (IFGI), University of Münster. I also serve as a Research Assistant and Reproducibility Manager at the Münster Center for Open Science. I am deeply passionate about leveraging spatial data to drive sustainable socio-economic development and actively seek innovative opportunities where technology intersects with science and society.<br>
 
