@@ -1,18 +1,11 @@
 # About Me:
- <br>I am a Geoinformatics and Spatial Data Science researcher with a foundation in computer technology
-and a growing specialization in spatial epidemiology, human mobility modeling, and infectious
-disease risk mapping. My work focuses on integrating multi-source population flow datasets with
-Bayesian spatiotemporal modeling and agent-based simulation to understand disease
-transmission dynamics at fine spatial scales.
-I have strong expertise in reproducible research, code auditing, and open science workflows,
-supporting transparent and verifiable computational analysis. Technically, I combine spatial
-statistics, GIS, and data engineering with programming for scalable health analytics. My broader
-interests lie in computational public health, mobility-driven risk modeling, and the development
+ <br>I am a Geoinformatics and Spatial Data Science researcher with a foundation in computer technology and a growing specialization in spatial epidemiology, human mobility modeling, and infectious disease risk mapping. My work focuses on integrating multi-source population flow datasets with Bayesian spatiotemporal modeling and agent-based simulation to understand disease transmission dynamics at fine spatial scales.
+I have strong expertise in reproducible research, code auditing, and open science workflows, supporting transparent and verifiable computational analysis. Technically, I combine spatial statistics, GIS, and data engineering with programming for scalable health analytics. My broader interests lie in computational public health, mobility-driven risk modeling, and the development
 of open, decision-support tools for epidemic preparedness and response.<br>
 
 <br> Currently, I am expanding my expertise as a graduate student at the Institute for Geoinformatics (IFGI), University of Münster. I also serve as a Research Assistant and Reproducibility Manager at the Münster Center for Open Science. I am deeply passionate about leveraging spatial data to drive sustainable socio-economic development and actively seek innovative opportunities where technology intersects with science and society.<br>
 
-<br> Key Skills and Interests:<br><br>Open Science<br>Geoinformatics & Spatial Data Science<br>Web Development & Data Visualization<br>IT Operations & Digital Communication<br>
+<br> Key Skills and Interests:<br><br>Geoinformatics & Spatial Data Science<br>Full Stack Development<br>Open Science<br>
 
 <br> My ultimate goal is to merge my technical expertise with my passion for environmental sustainability, driving impactful solutions at the intersection of technology and geoinformatics.<br>
 
