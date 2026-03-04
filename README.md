@@ -5,7 +5,7 @@ of open, decision-support tools for epidemic preparedness and response.<br>
 
 <br> Currently, I am expanding my expertise as a graduate student at the Institute for Geoinformatics (IFGI), University of Münster. I also serve as a Research Assistant and Reproducibility Manager at the Münster Center for Open Science. I am deeply passionate about leveraging spatial data to drive sustainable socio-economic development and actively seek innovative opportunities where technology intersects with science and society.<br>
 
-<br> Key Skills and Interests:<br><br>Geoinformatics & Spatial Data Science<br>Full Stack Development<br>Open Science<br>
+<br> Key Skills and Interests:<br><br>Geoinformatics & Spatial Data Science<br>Geo Health (Epidemiology)<br><br>Full Stack Development<br>Open Science<br>
 
 <br> My ultimate goal is to merge my technical expertise with my passion for environmental sustainability, driving impactful solutions at the intersection of technology and geoinformatics.<br>
 
