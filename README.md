@@ -1,5 +1,5 @@
 # About Me:
- <br>I am a Geoinformatics and Spatial Data Science researcher with a foundation in computer technology and a growing specialisation in spatial epidemiology, human mobility modelling, and infectious disease risk mapping. My work focuses on integrating multi-source population flow datasets with Bayesian spatiotemporal modelling and agent-based simulation to understand disease transmission dynamics at fine spatial scales.
+ <br>I am a Geoinformatics and Spatial Data Science researcher with a foundation in computer technology and a growing specialisation in Environmental epidemiology, human mobility modelling, and infectious disease risk mapping. My work focuses on integrating multi-source population flow datasets with Bayesian spatiotemporal modelling and agent-based simulation to understand disease transmission dynamics at fine spatial scales.
 I have strong expertise in reproducible research, code auditing, and open science workflows, supporting transparent and verifiable computational analysis. Technically, I combine spatial statistics, GIS, and data engineering with programming for scalable health analytics. My broader interests lie in computational public health, mobility-driven risk modelling, and the development
 of open, decision-support tools for epidemic preparedness and response.<br>
 
